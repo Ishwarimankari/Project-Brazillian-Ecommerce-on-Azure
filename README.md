@@ -1,7 +1,4 @@
-# Project-Brazillian-Ecommerce-on-Azure
-
 Azure End-to-End Data Engineering Project | Olist E-Commerce Dataset
-Project Description
 
 # This project demonstrates an end-to-end Data Engineering pipeline built on Microsoft Azure. It processes raw e-commerce data from ingestion to analytics-ready datasets, following modern data architecture practices.
 
